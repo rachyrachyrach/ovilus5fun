@@ -4,6 +4,8 @@ Want to see how the Ovilus5 works? There are different versions of the Ovilus.  
 
 March 3, 2022: This is a work in progress.  Not complete. 
 
+May 26: 2024: Check out my repo [Obivous](https://github.com/rachyrachyrach/obvious) to set up your own open source Ovilus with the ENTIRE dictionary! 
+
  
 
 [OvilusV Product Guide](https://www.digitaldowsing.com/product-guides/ovilus-5/setup/) 
@@ -15,6 +17,7 @@ March 3, 2022: This is a work in progress.  Not complete.
 ## What You Need
 
 ![Raspberry Pi](/docs/images/raspberrypi.jpg)
+
 Raspberry Pi can be optional. I used this to connect via wifi.
 
 1. Find the ip address to your Ovilus 5. 
